@@ -51,6 +51,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.51.0-pre1, )"
+            },
+            "protobuf-net.Grpc": {
+              "target": "Package",
+              "version": "[1.0.179, )"
             }
           },
           "imports": [
@@ -110,6 +114,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Google.Protobuf": {
+              "target": "Package",
+              "version": "[3.21.9, )"
+            },
             "Grpc.Net.Client": {
               "target": "Package",
               "version": "[2.50.0, )"
@@ -117,6 +125,12 @@
             "Grpc.Net.Client.Web": {
               "target": "Package",
               "version": "[2.50.0, )"
+            },
+            "Grpc.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.47.0, )"
             },
             "Microsoft.AspNetCore.Components.WebAssembly": {
               "target": "Package",
@@ -126,6 +140,22 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[6.0.7, )"
+            },
+            "Mirality.Blazor.Routing": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "System.ServiceModel.Primitives": {
+              "target": "Package",
+              "version": "[4.10.0-preview1.22261.2, )"
+            },
+            "Toolbelt.Blazor.HotKeys": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
+            "protobuf-net.Grpc": {
+              "target": "Package",
+              "version": "[1.0.179, )"
             }
           },
           "imports": [

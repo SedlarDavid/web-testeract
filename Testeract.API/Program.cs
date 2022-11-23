@@ -35,7 +35,13 @@ app.UseRouting();
 app.UseAuthorization();
 
 app.UseGrpcWeb();
-app.UseEndpoints(endpoints => { endpoints.MapGrpcService<ServerStateService>().EnableGrpcWeb(); });
+app.UseEndpoints(endpoints =>
+{
+    endpoints.MapGrpcService<ServerStateService>().EnableGrpcWeb();
+    endpoints.MapRazorPages();
+    endpoints.MapControllers();
+    endpoints.MapFallbackToFile("index.html");
+});
 
 app.MapControllers();
 

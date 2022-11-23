@@ -13,9 +13,13 @@
     <SourceRoot Include="C:\Users\sedlar\.nuget\packages\" />
   </ItemGroup>
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)toolbelt.blazor.hotkeys\12.1.1\buildTransitive\Toolbelt.Blazor.HotKeys.props" Condition="Exists('$(NuGetPackageRoot)toolbelt.blazor.hotkeys\12.1.1\buildTransitive\Toolbelt.Blazor.HotKeys.props')" />
+    <Import Project="$(NuGetPackageRoot)grpc.tools\2.47.0\build\Grpc.Tools.props" Condition="Exists('$(NuGetPackageRoot)grpc.tools\2.47.0\build\Grpc.Tools.props')" />
+    <Import Project="$(NuGetPackageRoot)mirality.blazor.routing\1.0.2\buildTransitive\Mirality.Blazor.Routing.props" Condition="Exists('$(NuGetPackageRoot)mirality.blazor.routing\1.0.2\buildTransitive\Mirality.Blazor.Routing.props')" />
     <Import Project="$(NuGetPackageRoot)microsoft.aspnetcore.components.webassembly\6.0.7\build\net6.0\Microsoft.AspNetCore.Components.WebAssembly.props" Condition="Exists('$(NuGetPackageRoot)microsoft.aspnetcore.components.webassembly\6.0.7\build\net6.0\Microsoft.AspNetCore.Components.WebAssembly.props')" />
   </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgGrpc_Tools Condition=" '$(PkgGrpc_Tools)' == '' ">C:\Users\sedlar\.nuget\packages\grpc.tools\2.47.0</PkgGrpc_Tools>
     <PkgMicrosoft_AspNetCore_Components_WebAssembly_DevServer Condition=" '$(PkgMicrosoft_AspNetCore_Components_WebAssembly_DevServer)' == '' ">C:\Users\sedlar\.nuget\packages\microsoft.aspnetcore.components.webassembly.devserver\6.0.7</PkgMicrosoft_AspNetCore_Components_WebAssembly_DevServer>
   </PropertyGroup>
 </Project>

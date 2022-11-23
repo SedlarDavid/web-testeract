@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "6FLDON6ahKy3Ou70EgfvKRlJT3f6aJzzePHrPm0HasGlq1j+Flux6OK6dEcwmHolqiUyxbrE5Ea7WAszlsRCAw==",
+  "dgSpecHash": "RXmDBSOe4TheAgfiwttQTlnC/fg4ghw71OdMFX2CSpGGFpvuBAPffWVY7ptmGorBzsX83Fymxzlu6TLzUyti8w==",
   "success": true,
   "projectFilePath": "C:\\Users\\sedlar\\repo\\Testeract\\Testeract.API.Models\\Testeract.API.Models.csproj",
   "expectedPackageFiles": [
@@ -10,7 +10,14 @@
     "C:\\Users\\sedlar\\.nuget\\packages\\grpc.net.common\\2.50.0\\grpc.net.common.2.50.0.nupkg.sha512",
     "C:\\Users\\sedlar\\.nuget\\packages\\grpc.tools\\2.51.0-pre1\\grpc.tools.2.51.0-pre1.nupkg.sha512",
     "C:\\Users\\sedlar\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
-    "C:\\Users\\sedlar\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+    "C:\\Users\\sedlar\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\sedlar\\.nuget\\packages\\protobuf-net\\2.4.6\\protobuf-net.2.4.6.nupkg.sha512",
+    "C:\\Users\\sedlar\\.nuget\\packages\\protobuf-net.grpc\\1.0.179\\protobuf-net.grpc.1.0.179.nupkg.sha512",
+    "C:\\Users\\sedlar\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\sedlar\\.nuget\\packages\\system.private.servicemodel\\4.5.3\\system.private.servicemodel.4.5.3.nupkg.sha512",
+    "C:\\Users\\sedlar\\.nuget\\packages\\system.reflection.dispatchproxy\\4.5.0\\system.reflection.dispatchproxy.4.5.0.nupkg.sha512",
+    "C:\\Users\\sedlar\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512",
+    "C:\\Users\\sedlar\\.nuget\\packages\\system.servicemodel.primitives\\4.5.3\\system.servicemodel.primitives.4.5.3.nupkg.sha512"
   ],
   "logs": []
 }

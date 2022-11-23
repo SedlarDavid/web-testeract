@@ -51,6 +51,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.51.0-pre1, )"
+            },
+            "protobuf-net.Grpc": {
+              "target": "Package",
+              "version": "[1.0.179, )"
             }
           },
           "imports": [

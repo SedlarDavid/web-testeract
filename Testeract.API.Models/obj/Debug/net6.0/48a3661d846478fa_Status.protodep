@@ -1,2 +1,0 @@
-obj\Debug\net6.0\Status/Status.cs \
-obj\Debug\net6.0\Status/StatusGrpc.cs: Status/Status.proto
