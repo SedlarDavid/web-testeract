@@ -1,8 +1,28 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testeract.API.Models", "Testeract.API.Models\Testeract.API.Models.csproj", "{6C0EA238-80A3-4B2B-A649-82CFBAAECC9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testeract.UI", "Testeract.UI\Testeract.UI.csproj", "{0211D0F8-6D5E-4465-A29B-74CC545338AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testeract.API", "Testeract.API\Testeract.API.csproj", "{FB04464B-89D2-4A9C-B67D-C10141A239EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C0EA238-80A3-4B2B-A649-82CFBAAECC9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C0EA238-80A3-4B2B-A649-82CFBAAECC9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C0EA238-80A3-4B2B-A649-82CFBAAECC9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C0EA238-80A3-4B2B-A649-82CFBAAECC9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0211D0F8-6D5E-4465-A29B-74CC545338AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0211D0F8-6D5E-4465-A29B-74CC545338AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0211D0F8-6D5E-4465-A29B-74CC545338AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0211D0F8-6D5E-4465-A29B-74CC545338AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB04464B-89D2-4A9C-B67D-C10141A239EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB04464B-89D2-4A9C-B67D-C10141A239EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB04464B-89D2-4A9C-B67D-C10141A239EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB04464B-89D2-4A9C-B67D-C10141A239EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

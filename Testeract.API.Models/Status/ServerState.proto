@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+service ServerState {
+  rpc GetState (ServerStateRequest) returns (ServerStateResponse);
+}
+
+message ServerStateRequest {
+  string clientName = 1;
+}
+
+message ServerStateResponse {
+  string status = 1;
+  string message = 2;
+}

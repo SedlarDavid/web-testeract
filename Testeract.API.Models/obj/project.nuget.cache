@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "6FLDON6ahKy3Ou70EgfvKRlJT3f6aJzzePHrPm0HasGlq1j+Flux6OK6dEcwmHolqiUyxbrE5Ea7WAszlsRCAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sedlar\\repo\\Testeract\\Testeract.API.Models\\Testeract.API.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sedlar\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",
+    "C:\\Users\\sedlar\\.nuget\\packages\\grpc.core.api\\2.50.0\\grpc.core.api.2.50.0.nupkg.sha512",
+    "C:\\Users\\sedlar\\.nuget\\packages\\grpc.net.client\\2.50.0\\grpc.net.client.2.50.0.nupkg.sha512",
+    "C:\\Users\\sedlar\\.nuget\\packages\\grpc.net.common\\2.50.0\\grpc.net.common.2.50.0.nupkg.sha512",
+    "C:\\Users\\sedlar\\.nuget\\packages\\grpc.tools\\2.51.0-pre1\\grpc.tools.2.51.0-pre1.nupkg.sha512",
+    "C:\\Users\\sedlar\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
+    "C:\\Users\\sedlar\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

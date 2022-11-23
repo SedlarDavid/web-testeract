@@ -1,0 +1,12 @@
+C:\Users\sedlar\repo\Testeract\Testeract.API.Models\bin\Debug\net6.0\Testeract.API.Models.deps.json
+C:\Users\sedlar\repo\Testeract\Testeract.API.Models\bin\Debug\net6.0\Testeract.API.Models.dll
+C:\Users\sedlar\repo\Testeract\Testeract.API.Models\bin\Debug\net6.0\Testeract.API.Models.pdb
+C:\Users\sedlar\repo\Testeract\Testeract.API.Models\obj\Debug\net6.0\Testeract.API.Models.csproj.AssemblyReference.cache
+C:\Users\sedlar\repo\Testeract\Testeract.API.Models\obj\Debug\net6.0\Testeract.API.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sedlar\repo\Testeract\Testeract.API.Models\obj\Debug\net6.0\Testeract.API.Models.AssemblyInfoInputs.cache
+C:\Users\sedlar\repo\Testeract\Testeract.API.Models\obj\Debug\net6.0\Testeract.API.Models.AssemblyInfo.cs
+C:\Users\sedlar\repo\Testeract\Testeract.API.Models\obj\Debug\net6.0\Testeract.API.Models.csproj.CoreCompileInputs.cache
+C:\Users\sedlar\repo\Testeract\Testeract.API.Models\obj\Debug\net6.0\Testeract.API.Models.dll
+C:\Users\sedlar\repo\Testeract\Testeract.API.Models\obj\Debug\net6.0\refint\Testeract.API.Models.dll
+C:\Users\sedlar\repo\Testeract\Testeract.API.Models\obj\Debug\net6.0\Testeract.API.Models.pdb
+C:\Users\sedlar\repo\Testeract\Testeract.API.Models\obj\Debug\net6.0\ref\Testeract.API.Models.dll
